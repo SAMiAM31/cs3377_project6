@@ -1,4 +1,4 @@
-/Hector Garza
+//Hector Garza
 //Program 6
 
 #include <iostream>
